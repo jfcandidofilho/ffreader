@@ -4,7 +4,7 @@
     
     "name": "FF Reader",
     
-    "version": "0.5.0",
+    "version": "0.6.0",
     
     "description": "A simple extension for Firefox that activates Reader Mode",
     
@@ -13,7 +13,10 @@
     "icons": {
         "32": "icons/32.png",
         "48": "icons/48.png",
-        "96": "icons/96.png"
+        "96": "icons/96.png",
+        "128": "icons/128.png",
+        "256": "icons/256.png",
+        "512": "icons/512.png"
     },
     
     "developer": {
