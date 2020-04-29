@@ -1,0 +1,1 @@
+alert("This page does not support Reader Mode.");
