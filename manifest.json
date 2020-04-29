@@ -4,7 +4,7 @@
     
     "name": "FF Reader",
     
-    "version": "0.3.0",
+    "version": "0.4.0",
     
     "description": "A simple extension for Firefox that appends about:reader?url= to the URL",
     
